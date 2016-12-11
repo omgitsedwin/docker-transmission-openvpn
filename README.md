@@ -1,4 +1,4 @@
-This is a fork of linuxserver.io's Transmission container. I have modified the dockerfile to include openvpn.
+This is a fork of linuxserver.io's Transmission container. I have modified the dockerfile to include OpenVPN.
 
 [linuxserverurl]: https://linuxserver.io
 [forumurl]: https://forum.linuxserver.io

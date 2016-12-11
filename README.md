@@ -1,3 +1,5 @@
+This is a fork of linuxserver.io's Transmission container. I have modified the dockerfile to include openvpn.
+
 [linuxserverurl]: https://linuxserver.io
 [forumurl]: https://forum.linuxserver.io
 [ircurl]: https://www.linuxserver.io/irc/

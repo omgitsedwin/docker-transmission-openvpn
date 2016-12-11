@@ -12,7 +12,8 @@ RUN \
 	curl \
 	jq \
 	transmission-cli \
-	transmission-daemon
+	transmission-daemon \
+	openvpn
 
 # copy local files
 COPY root/ /

@@ -1,4 +1,4 @@
-This is a fork of linuxserver.io's Transmission container. I have modified the dockerfile to include OpenVPN.
+On hold until FreeNAS 10 adds options for Docker elevated privileges and network tunnel devices. This is a fork of linuxserver.io's Transmission container. I have modified the dockerfile to include OpenVPN. 
 
 [linuxserverurl]: https://linuxserver.io
 [forumurl]: https://forum.linuxserver.io
